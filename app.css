@@ -1,0 +1,72 @@
+.topContent {
+  height:250px;
+}
+
+.introduction {
+    padding: 40px;
+    font-size: 12px;
+    font-weight: lighter;
+    width: 100%;
+    float: left;
+    border-bottom-style: solid;
+    border-bottom-color: #d3d3d3;
+}
+
+.profilePictureImage {
+    width: 120px;
+    height: 120px;
+    border-radius: 158px;
+    border-style: solid;
+    border-color: #808080;
+    float: left;
+    margin: 25px;
+}
+
+.training {
+    float: left;
+    padding: 10px;
+    font-size: 12px;
+    width: 100%;
+    border-bottom-style: solid;
+    border-bottom-color: #d3d3d3;
+}
+
+.training li {
+    padding: 20px;
+}
+
+.workExperience { 
+width: 100%;
+float: left;
+padding: 12px;
+font-size: 12px;
+border-bottom-style: solid;
+border-block-width: 1px;
+border-bottom-color: #d3d3d3;
+}
+
+.workExperience td { 
+   padding: 10px;
+}
+
+.skills {
+    width: 554px;
+    float: left;
+    font-family: inherit;
+    padding: 10px;
+    font-size: 14px;
+    width: 100%;
+    float: left;
+    border-bottom-style: solid;
+    border-block-width: 1px;
+    border-bottom-color: #d3d3d3;
+}
+
+.hobbiesAndcontact {
+    font-size: 14px;
+    padding: 10px;
+    border-bottom-style: solid;
+    text-decoration: underline;
+    text-decoration-color: #000000;
+    color: #0000ff;
+}
